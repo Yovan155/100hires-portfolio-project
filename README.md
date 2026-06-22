@@ -1,40 +1,76 @@
-## Steps Completed
+# AI-Powered SEO Content Production for B2B SaaS
 
-1. Installed Cursor IDE.
-2. Installed Claude Code Extension.
-3. Installed Codex Extension.
-4. Created a GitHub account.
-5. Created a public GitHub repository.
-6. Opened the repository in Cursor.
-7. Created and updated the [README.md](http://README.md) file.
-8. Installed Git for Windows.
-9. Configured Git username and email.
-10. Committed and pushed the repository to GitHub.
+## Project Overview
 
-## Challenges Faced
+This repository contains research on AI-Powered SEO Content Production for B2B SaaS companies.
 
-### Challenge 1: Git Not Recognized
+The objective of this project was to identify leading practitioners, analyze their content, extract repeatable frameworks, and document actionable insights that can be used to build scalable AI-assisted SEO systems.
 
-Initially, Git was not available in the terminal.
+---
 
-**Solution:** Installed Git for Windows and restarted the environment.
+## Research Scope
 
-### Challenge 2: Git Configuration
+### Experts Researched (10)
 
-Git required user identity configuration before allowing commits.
+1. Ross Simmonds
+2. Kevin Indig
+3. Gaetano DiNardi
+4. Bernard Huang
+5. Nathan Gotch
+6. Matt Diggity
+7. Aleyda Solis
+8. Lily Ray
+9. Rand Fishkin
+10. Tom Critchlow
 
-**Solution:** Configured Git username and email using Git configuration commands.
+---
 
-### Challenge 3: Learning GitHub Workflow
+## Research Deliverables
 
-As a first-time GitHub workflow user, understanding repositories, commits, and pushing changes required additional research.
+- LinkedIn content analysis
+- YouTube and podcast research
+- Source documentation
+- Framework extraction
+- Actionable insights
+- Cross-expert pattern analysis
 
-**Solution:** Used documentation, tutorials, and AI-assisted guidance to complete the setup successfully.
+---
 
-## Key Learnings
+## Repository Structure
 
-- GitHub repository management
-- Git basics (init, add, commit, push)
-- README documentation
-- AI-assisted development tools
-- Research and problem-solving skills
+```text
+research/
+│
+├── linkedin-posts/
+├── youtube-transcripts/
+├── sources.md
+├── frameworks.md
+├── actionable-insights.md
+└── other/
+```
+
+## Key Findings
+
+Several recurring themes emerged across the research:
+
+- AI Search Optimization (AEO/GEO) is becoming increasingly important.
+- Brand authority and third-party validation influence AI citations.
+- Content distribution is as important as content creation.
+- Human expertise remains a competitive advantage in AI-assisted content workflows.
+- Structured systems outperform ad-hoc content production.
+
+---
+
+## Tools Used
+
+- Cursor IDE
+- Claude Code
+- GitHub
+- AI-assisted research workflows
+- Public expert content and industry resources
+
+---
+
+## Outcome
+
+This research project consolidated insights from leading SEO and growth marketing practitioners to better understand how AI is reshaping organic growth strategies for B2B SaaS companies.
